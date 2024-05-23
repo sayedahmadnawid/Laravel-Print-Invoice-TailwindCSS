@@ -8,8 +8,8 @@ This project is an open-source Laravel application that aims to enhance the PDF 
 
 ## Demo
 The generated pdf document used Tailwind CSS with flex and grid layouts.
-![English](https://github.com/sayedahmadnawid/Laravel-PDF-Tailwind/assets/12025673/469e8a14-e684-4bd2-91ec-dfd4b17d925a)
-![Japanese](https://github.com/sayedahmadnawid/Laravel-PDF-Tailwind/assets/12025673/adec0229-4710-4eb2-b1a8-169aa00e77f1)
+
+![English](https://github.com/sayedahmadnawid/Laravel-PDF-Tailwind/assets/12025673/469e8a14-e684-4bd2-91ec-dfd4b17d925a)![Japanese](https://github.com/sayedahmadnawid/Laravel-PDF-Tailwind/assets/12025673/adec0229-4710-4eb2-b1a8-169aa00e77f1)
 ## Key Features
 1. __CSS3 Support__
    - __Flexbox:__ Utilize Flexbox for creating flexible and responsive layouts within your PDFs.

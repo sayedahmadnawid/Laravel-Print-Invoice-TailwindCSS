@@ -4,7 +4,7 @@
 This project is an open-source Laravel application that aims to enhance the PDF generation capabilities in Laravel by leveraging the __laravel-pdf__ package from Spatie. The primary goal is to overcome the limitations of the __dompdf__ package, which only supports CSS2. By integrating __laravel-pdf__, this project provides advanced support for CSS3, including modern layout techniques like Flexbox and Grid, as well as full compatibility with TailwindCSS. This results in a more powerful and flexible PDF generation solution for Laravel developers.
 
 ## 日本語の説明
-このプロジェクトは、LaravelのPDF生成機能を強化するためのオープンソースのLaravelアプリケーションです。Spatieのlaravel-pdfパッケージを活用しています。主な目的は、CSS2しかサポートしていないdompdfパッケージの制限を克服することです。laravel-pdfを統合することで、このプロジェクトはCSS3の高度なサポートを提供します。これには、FlexboxやGridのような最新のレイアウト技術、およびTailwindCSSとの完全な互換性が含まれます。これにより、Laravel開発者にとって、より強力で柔軟なPDF生成ソリューションを提供します。
+このプロジェクトは、LaravelのPDF生成機能を強化するためのオープンソースのLaravelアプリケーションです。Spatieの __laravel-pdf__ パッケージを活用しています。主な目的は、CSS2しかサポートしていない __dompdf__ パッケージの制限を克服することです。__laravel-pdf__ を統合することで、このプロジェクトはCSS3の高度なサポートを提供します。これには、FlexboxやGridのような最新のレイアウト技術、およびTailwindCSSとの完全な互換性が含まれます。これにより、Laravel開発者にとって、より強力で柔軟なPDF生成ソリューションを提供します。
 
 ## Key Features
 1. __CSS3 Support__
